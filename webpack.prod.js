@@ -20,7 +20,7 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: "fortext.min.js"
+        filename: "forlist.min.js"
     },
     module: {
         rules: [{

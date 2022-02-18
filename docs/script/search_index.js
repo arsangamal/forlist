@@ -1,38 +1,8 @@
 window.esdocSearchIndex = [
   [
-    "fortext/functions/basename.js~basename",
-    "function/index.html#static-function-basename",
-    "<span>basename</span> <span class=\"search-result-import-path\">fortext/functions/basename.js</span>",
-    "function"
-  ],
-  [
-    "fortext/functions/exists.js~exists",
-    "function/index.html#static-function-exists",
-    "<span>exists</span> <span class=\"search-result-import-path\">fortext/functions/exists.js</span>",
-    "function"
-  ],
-  [
-    "fortext/functions/firstword.js~firstword",
-    "function/index.html#static-function-firstWord",
-    "<span>firstWord</span> <span class=\"search-result-import-path\">fortext/functions/firstWord.js</span>",
-    "function"
-  ],
-  [
-    "fortext/functions/howmany.js~howmany",
-    "function/index.html#static-function-howMany",
-    "<span>howMany</span> <span class=\"search-result-import-path\">fortext/functions/howMany.js</span>",
-    "function"
-  ],
-  [
-    "fortext/functions/initials.js~initials",
-    "function/index.html#static-function-initials",
-    "<span>initials</span> <span class=\"search-result-import-path\">fortext/functions/initials.js</span>",
-    "function"
-  ],
-  [
-    "fortext/functions/lastword.js~lastword",
-    "function/index.html#static-function-lastWord",
-    "<span>lastWord</span> <span class=\"search-result-import-path\">fortext/functions/lastWord.js</span>",
+    "forlist/functions/nthelement.js~nthelement",
+    "function/index.html#static-function-nthElement",
+    "<span>nthElement</span> <span class=\"search-result-import-path\">forlist/functions/nthElement.js</span>",
     "function"
   ],
   [
@@ -318,39 +288,9 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
-    "functions/basename.js",
-    "file/functions/basename.js.html",
-    "functions/basename.js",
-    "file"
-  ],
-  [
-    "functions/exists.js",
-    "file/functions/exists.js.html",
-    "functions/exists.js",
-    "file"
-  ],
-  [
-    "functions/firstword.js",
-    "file/functions/firstWord.js.html",
-    "functions/firstWord.js",
-    "file"
-  ],
-  [
-    "functions/howmany.js",
-    "file/functions/howMany.js.html",
-    "functions/howMany.js",
-    "file"
-  ],
-  [
-    "functions/initials.js",
-    "file/functions/initials.js.html",
-    "functions/initials.js",
-    "file"
-  ],
-  [
-    "functions/lastword.js",
-    "file/functions/lastWord.js.html",
-    "functions/lastWord.js",
+    "functions/nthelement.js",
+    "file/functions/nthElement.js.html",
+    "functions/nthElement.js",
     "file"
   ]
 ]

@@ -1,8 +1,8 @@
 {
-  "name": "fortext",
-  "version": "2.0.1",
-  "description": "A javascript library for text operations",
-  "main": "dist/fortext.min.js",
+  "name": "forlist",
+  "version": "1.0.0",
+  "description": "A javascript library for array operations",
+  "main": "dist/forlist.min.js",
   "scripts": {
     "dev": "webpack",
     "prod": "webpack --config webpack.prod.js",
@@ -11,18 +11,17 @@
     "test": "jest"
   },
   "keywords": [
-    "fortext",
+    "forlist",
     "javascript",
     "library",
-    "text",
-    "string",
+    "array",
     "operations",
     "arsan",
     "gamal"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArsanGamal/fortext.git"
+    "url": "https://github.com/ArsanGamal/forlist.git"
   },
   "author": "Arsan Gamal <arsan.gamal@gmail.com>",
   "license": "ISC",
@@ -46,5 +45,8 @@
         "name": "esdoc-standard-plugin"
       }
     ]
+  },
+  "dependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0"
   }
 }

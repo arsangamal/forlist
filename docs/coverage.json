@@ -1,34 +1,9 @@
 {
   "coverage": "100%",
-  "expectCount": 6,
-  "actualCount": 6,
+  "expectCount": 1,
+  "actualCount": 1,
   "files": {
-    "functions/basename.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "functions/exists.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "functions/firstWord.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "functions/howMany.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "functions/initials.js": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "functions/lastWord.js": {
+    "functions/nthElement.js": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
