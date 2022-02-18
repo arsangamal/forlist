@@ -8,14 +8,28 @@ npm i forlist
 ```
 ### Available functions
 
-#### initials([ isInitialsCapital [ , execludeWordsArray ] ])
-##### get the initials of a string capital or as it is, with or without some words
+#### nthElement(index)
+##### get the nth element of an array
+```
+    var nums = [1, 2, 3, 4];
+    var number = nums.nthElement(2); // 3
+```
 
-    var text = "national aeronautics and space administration";
-    console.log(text.initials()); // output: naasa
-    console.log(text.initials(false,["and"])); //output: nasa
-    console.log(text.initials(true,["and"])); //output: NASA
+### Available properties
 
+#### Array.prototype.firstElement
+##### get the first element from an array
+```
+    var nums = [1, 2, 3, 4];
+    var number = nums.firstElement; // 1
+```
+
+#### Array.prototype.lastElement
+##### get the last element from an array
+```
+    var nums = [1, 2, 3, 4];
+    var number = nums.lastElement; // 4
+```
 
 **More is yet to come ;)** ..
 
